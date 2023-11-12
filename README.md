@@ -1,2 +1,2 @@
 # ECE360C
-Algorithms Projects
+Algorithms Projects by Fahim Imtiaz
