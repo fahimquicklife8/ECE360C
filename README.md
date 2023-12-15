@@ -1,2 +1,3 @@
 # ECE360C
-Algorithms Projects by Fahim Imtiaz
+Dr. Pedro SantaCruz
+by Fahim Imtiaz
